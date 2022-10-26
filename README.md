@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo,+eu+sou+Denis+Souza+🤙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷)](https://git.io/typing-svg)
+### Bem vindo, eu souza Denis Souza 🤙
 
 [![blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]()
 [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
@@ -11,3 +12,4 @@
 [![habildades](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
 [![habildades](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷+🇧🇷)](https://git.io/typing-svg)
